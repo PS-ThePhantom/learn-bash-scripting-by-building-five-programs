@@ -90,3 +90,4 @@ chmod +x countdown.sh
 ./countdown.sh
 ./countdown.sh phuluso singo wanga
 ./countdown.sh arg1 arg2 arg3
+./countdown.sh arg1 arg2 arg3
